@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Access Modifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F474F466-1E5F-4C13-9488-49147709E517}|ProtectedExample\\ProtectedExample.csproj|d:\\access modifiers\\protectedexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F474F466-1E5F-4C13-9488-49147709E517}|ProtectedExample\\ProtectedExample.csproj|solutionrelative:protectedexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F474F466-1E5F-4C13-9488-49147709E517}|ProtectedExample\\ProtectedExample.csproj|d:\\access modifiers\\protectedexample\\protectedexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F474F466-1E5F-4C13-9488-49147709E517}|ProtectedExample\\ProtectedExample.csproj|solutionrelative:protectedexample\\protectedexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517685E5-FEF1-4D09-91A9-7F787C8EA276}|PrivateProtectedExample\\PrivateProtectedExample.csproj|d:\\access modifiers\\privateprotectedexample\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517685E5-FEF1-4D09-91A9-7F787C8EA276}|PrivateProtectedExample\\PrivateProtectedExample.csproj|solutionrelative:privateprotectedexample\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3BA8D6-86E3-46A5-B83F-8ADECA67D603}|ProtectedInternalExample\\ProtectedInternalExample.csproj|d:\\access modifiers\\protectedinternalexample\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3BA8D6-86E3-46A5-B83F-8ADECA67D603}|ProtectedInternalExample\\ProtectedInternalExample.csproj|solutionrelative:protectedinternalexample\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86476004-70A3-43F5-8EE1-ECFDD2A2A0A2}|ProtectedInternalExampleMain\\ProtectedInternalExampleMain.csproj|d:\\access modifiers\\protectedinternalexamplemain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86476004-70A3-43F5-8EE1-ECFDD2A2A0A2}|ProtectedInternalExampleMain\\ProtectedInternalExampleMain.csproj|solutionrelative:protectedinternalexamplemain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0F372B-39FA-4017-8CA7-479C1EAA2C45}|ProtectedExampleMain\\ProtectedExampleMain.csproj|d:\\access modifiers\\protectedexamplemain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0F372B-39FA-4017-8CA7-479C1EAA2C45}|ProtectedExampleMain\\ProtectedExampleMain.csproj|solutionrelative:protectedexamplemain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2CBF16-36EC-45AB-97EF-05C6035FD521}|InternalExample\\InternalExample.csproj|d:\\access modifiers\\internalexample\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2CBF16-36EC-45AB-97EF-05C6035FD521}|InternalExample\\InternalExample.csproj|solutionrelative:internalexample\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D80EA5D-593C-414C-8D85-3CD25EAB99C3}|PrivateExample\\PrivateExample.csproj|d:\\access modifiers\\privateexample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D80EA5D-593C-414C-8D85-3CD25EAB99C3}|PrivateExample\\PrivateExample.csproj|solutionrelative:privateexample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D80EA5D-593C-414C-8D85-3CD25EAB99C3}|PrivateExample\\PrivateExample.csproj|d:\\access modifiers\\privateexample\\privateexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D80EA5D-593C-414C-8D85-3CD25EAB99C3}|PrivateExample\\PrivateExample.csproj|solutionrelative:privateexample\\privateexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D860364-2386-41FF-B289-3DA22E86E9AF}|PublicExampleMain\\PublicExampleMain.csproj|d:\\access modifiers\\publicexamplemain\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D860364-2386-41FF-B289-3DA22E86E9AF}|PublicExampleMain\\PublicExampleMain.csproj|solutionrelative:publicexamplemain\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587DA83-99F6-4C08-9A1D-DF1719EA72A9}|PublicExample\\PublicExample.csproj|d:\\access modifiers\\publicexample\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587DA83-99F6-4C08-9A1D-DF1719EA72A9}|PublicExample\\PublicExample.csproj|solutionrelative:publicexample\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587DA83-99F6-4C08-9A1D-DF1719EA72A9}|PublicExample\\PublicExample.csproj|d:\\access modifiers\\publicexample\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587DA83-99F6-4C08-9A1D-DF1719EA72A9}|PublicExample\\PublicExample.csproj|solutionrelative:publicexample\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587DA83-99F6-4C08-9A1D-DF1719EA72A9}|PublicExample\\PublicExample.csproj|d:\\access modifiers\\publicexample\\publicexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F587DA83-99F6-4C08-9A1D-DF1719EA72A9}|PublicExample\\PublicExample.csproj|solutionrelative:publicexample\\publicexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Father.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\PrivateProtectedExample\\Father.cs",
+              "RelativeDocumentMoniker": "PrivateProtectedExample\\Father.cs",
+              "ToolTip": "D:\\Access Modifiers\\PrivateProtectedExample\\Father.cs",
+              "RelativeToolTip": "PrivateProtectedExample\\Father.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:29:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\PrivateExample\\Animal.cs",
+              "RelativeDocumentMoniker": "PrivateExample\\Animal.cs",
+              "ToolTip": "D:\\Access Modifiers\\PrivateExample\\Animal.cs",
+              "RelativeToolTip": "PrivateExample\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:27:07.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrivateExample",
+              "DocumentMoniker": "D:\\Access Modifiers\\PrivateExample\\PrivateExample.csproj",
+              "RelativeDocumentMoniker": "PrivateExample\\PrivateExample.csproj",
+              "ToolTip": "D:\\Access Modifiers\\PrivateExample\\PrivateExample.csproj",
+              "RelativeToolTip": "PrivateExample\\PrivateExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T17:27:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\PublicExampleMain\\Bike.cs",
+              "RelativeDocumentMoniker": "PublicExampleMain\\Bike.cs",
+              "ToolTip": "D:\\Access Modifiers\\PublicExampleMain\\Bike.cs",
+              "RelativeToolTip": "PublicExampleMain\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:26:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\ProtectedInternalExampleMain\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectedInternalExampleMain\\Program.cs",
+              "ToolTip": "D:\\Access Modifiers\\ProtectedInternalExampleMain\\Program.cs",
+              "RelativeToolTip": "ProtectedInternalExampleMain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:01:51.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\ProtectedInternalExample\\Parent.cs",
+              "RelativeDocumentMoniker": "ProtectedInternalExample\\Parent.cs",
+              "ToolTip": "D:\\Access Modifiers\\ProtectedInternalExample\\Parent.cs",
+              "RelativeToolTip": "ProtectedInternalExample\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:01:46.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProtectedExample.csproj",
+              "DocumentMoniker": "D:\\Access Modifiers\\ProtectedExample\\ProtectedExample.csproj",
+              "RelativeDocumentMoniker": "ProtectedExample\\ProtectedExample.csproj",
+              "ToolTip": "D:\\Access Modifiers\\ProtectedExample\\ProtectedExample.csproj",
+              "RelativeToolTip": "ProtectedExample\\ProtectedExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T05:01:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "College.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\InternalExample\\College.cs",
+              "RelativeDocumentMoniker": "InternalExample\\College.cs",
+              "ToolTip": "D:\\Access Modifiers\\InternalExample\\College.cs",
+              "RelativeToolTip": "InternalExample\\College.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:13:40.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\ProtectedExampleMain\\Student.cs",
+              "RelativeDocumentMoniker": "ProtectedExampleMain\\Student.cs",
+              "ToolTip": "D:\\Access Modifiers\\ProtectedExampleMain\\Student.cs",
+              "RelativeToolTip": "ProtectedExampleMain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:12:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\ProtectedExample\\Person.cs",
+              "RelativeDocumentMoniker": "ProtectedExample\\Person.cs",
+              "ToolTip": "D:\\Access Modifiers\\ProtectedExample\\Person.cs",
+              "RelativeToolTip": "ProtectedExample\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:12:45.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\PublicExample\\Vehicle.cs",
+              "RelativeDocumentMoniker": "PublicExample\\Vehicle.cs",
+              "ToolTip": "D:\\Access Modifiers\\PublicExample\\Vehicle.cs",
+              "RelativeToolTip": "PublicExample\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:26:20.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Access Modifiers\\PublicExample\\Car.cs",
+              "RelativeDocumentMoniker": "PublicExample\\Car.cs",
+              "ToolTip": "D:\\Access Modifiers\\PublicExample\\Car.cs",
+              "RelativeToolTip": "PublicExample\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:41:00.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublicExample.csproj",
+              "DocumentMoniker": "D:\\Access Modifiers\\PublicExample\\PublicExample.csproj",
+              "RelativeDocumentMoniker": "PublicExample\\PublicExample.csproj",
+              "ToolTip": "D:\\Access Modifiers\\PublicExample\\PublicExample.csproj",
+              "RelativeToolTip": "PublicExample\\PublicExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T07:40:53.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

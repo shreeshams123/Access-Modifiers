@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProtectedInternalExampleMain/1.0.0": {
+        "dependencies": {
+          "ProtectedInternalExample": "1.0.0"
+        },
+        "runtime": {
+          "ProtectedInternalExampleMain.dll": {}
+        }
+      },
+      "ProtectedInternalExample/1.0.0": {
+        "runtime": {
+          "ProtectedInternalExample.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProtectedInternalExampleMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProtectedInternalExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Access Modifiers\ProtectedInternalExample\bin\Debug\netcoreapp3.1\ProtectedInternalExample.exe
+D:\Access Modifiers\ProtectedInternalExample\bin\Debug\netcoreapp3.1\ProtectedInternalExample.deps.json
+D:\Access Modifiers\ProtectedInternalExample\bin\Debug\netcoreapp3.1\ProtectedInternalExample.runtimeconfig.json
+D:\Access Modifiers\ProtectedInternalExample\bin\Debug\netcoreapp3.1\ProtectedInternalExample.runtimeconfig.dev.json
+D:\Access Modifiers\ProtectedInternalExample\bin\Debug\netcoreapp3.1\ProtectedInternalExample.dll
+D:\Access Modifiers\ProtectedInternalExample\bin\Debug\netcoreapp3.1\ProtectedInternalExample.pdb
+D:\Access Modifiers\ProtectedInternalExample\obj\Debug\netcoreapp3.1\ProtectedInternalExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Access Modifiers\ProtectedInternalExample\obj\Debug\netcoreapp3.1\ProtectedInternalExample.AssemblyInfoInputs.cache
+D:\Access Modifiers\ProtectedInternalExample\obj\Debug\netcoreapp3.1\ProtectedInternalExample.AssemblyInfo.cs
+D:\Access Modifiers\ProtectedInternalExample\obj\Debug\netcoreapp3.1\ProtectedInternalExample.csproj.CoreCompileInputs.cache
+D:\Access Modifiers\ProtectedInternalExample\obj\Debug\netcoreapp3.1\ProtectedInternalExample.dll
+D:\Access Modifiers\ProtectedInternalExample\obj\Debug\netcoreapp3.1\ProtectedInternalExample.pdb
+D:\Access Modifiers\ProtectedInternalExample\obj\Debug\netcoreapp3.1\ProtectedInternalExample.genruntimeconfig.cache

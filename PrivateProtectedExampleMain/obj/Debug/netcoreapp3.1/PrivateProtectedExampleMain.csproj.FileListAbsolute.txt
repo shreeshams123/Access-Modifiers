@@ -1,0 +1,5 @@
+D:\Access Modifiers\PrivateProtectedExampleMain\obj\Debug\netcoreapp3.1\PrivateProtectedExampleMain.csproj.AssemblyReference.cache
+D:\Access Modifiers\PrivateProtectedExampleMain\obj\Debug\netcoreapp3.1\PrivateProtectedExampleMain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Access Modifiers\PrivateProtectedExampleMain\obj\Debug\netcoreapp3.1\PrivateProtectedExampleMain.AssemblyInfoInputs.cache
+D:\Access Modifiers\PrivateProtectedExampleMain\obj\Debug\netcoreapp3.1\PrivateProtectedExampleMain.AssemblyInfo.cs
+D:\Access Modifiers\PrivateProtectedExampleMain\obj\Debug\netcoreapp3.1\PrivateProtectedExampleMain.csproj.CoreCompileInputs.cache

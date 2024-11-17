@@ -1,0 +1,13 @@
+D:\Access Modifiers\PublicExample\obj\Debug\netcoreapp3.1\PublicExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Access Modifiers\PublicExample\obj\Debug\netcoreapp3.1\PublicExample.AssemblyInfoInputs.cache
+D:\Access Modifiers\PublicExample\obj\Debug\netcoreapp3.1\PublicExample.AssemblyInfo.cs
+D:\Access Modifiers\PublicExample\obj\Debug\netcoreapp3.1\PublicExample.csproj.CoreCompileInputs.cache
+D:\Access Modifiers\PublicExample\bin\Debug\netcoreapp3.1\PublicExample.exe
+D:\Access Modifiers\PublicExample\bin\Debug\netcoreapp3.1\PublicExample.deps.json
+D:\Access Modifiers\PublicExample\bin\Debug\netcoreapp3.1\PublicExample.runtimeconfig.json
+D:\Access Modifiers\PublicExample\bin\Debug\netcoreapp3.1\PublicExample.runtimeconfig.dev.json
+D:\Access Modifiers\PublicExample\bin\Debug\netcoreapp3.1\PublicExample.dll
+D:\Access Modifiers\PublicExample\bin\Debug\netcoreapp3.1\PublicExample.pdb
+D:\Access Modifiers\PublicExample\obj\Debug\netcoreapp3.1\PublicExample.dll
+D:\Access Modifiers\PublicExample\obj\Debug\netcoreapp3.1\PublicExample.pdb
+D:\Access Modifiers\PublicExample\obj\Debug\netcoreapp3.1\PublicExample.genruntimeconfig.cache
